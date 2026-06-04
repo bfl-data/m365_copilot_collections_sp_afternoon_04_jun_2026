@@ -1,14 +1,14 @@
 # Copilot in Excel — Participant Exercise Guide
 ### Formulas & Pivot Tables for Collections
 **Bajaj Finance Limited | M365 Copilot Training**
-**File:** `BFL_Collections_Copilot_BasicDemo.xlsx`
+**File:** `BFL_Collections_Copilot_Agent_Data.xlsx`
 
 ---
 
 ## Before You Begin
 
 - Use **Copilot agent** to open agent in the Copilot panel
-- Add `BFL_Collections_Copilot_BasicDemo.xlsx` from OneDrive
+- Add `BFL_Collections_Copilot_Agent_Data.xlsx` from OneDrive
 - Keep the Copilot panel open throughout all exercises
 - The file has **25 rows of collections data** — one sheet, no formulas yet
 - Columns N–Q are intentionally blank — you will fill these using Copilot
